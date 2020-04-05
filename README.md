@@ -1,0 +1,2 @@
+# openChem
+A repository of open-source VR components collectively used for assembling a university-level lab environment suitable for macro-micromolecular visual learning; simulating chemistry labs on HTC vive VR environments. The openChem VR repo is my own file which integrates and uses all other files and assets in other repos in a node together in one single environment. Sources cited in readme of each repository file.
